@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const dbURI = "mongodb+srv://user1:mtu12345@cluster0.00wzfxg.mongodb.net/Loc8r?retryWrites=true&w=majority";
+const dbURI = "mongodb+srv://dannyfinnegan:Buster241@cluster0.3atlb.mongodb.net/movies?retryWrites=true&w=majority&appName=Cluster0";
 
 try {
    
